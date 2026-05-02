@@ -23,5 +23,4 @@
 
 ## 📊 GitHub Stats
 
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyoDevX&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoDevX&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=AyoDevX&theme=tokyonight&hide_border=true)
