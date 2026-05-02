@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/AyoDevX/AyoDevX-/main/banner.png)
+
 # 👋 Hey, I'm Ayoub
 
 🐍 Python Developer passionate about Game Development  
